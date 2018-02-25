@@ -1,0 +1,1 @@
+This example is an API developed using REST web services to manage "profiles", "messages" and "messages' comments" in an hypothetical social network.
